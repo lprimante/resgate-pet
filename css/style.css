@@ -1,3 +1,7 @@
+/* Trocar paleta de cores, trocar os seletores dos elementos por classe, corrigir posicionamento dos elementos 
+azul: #01dafeff roxo-claro: #d0a9ecff roxo-médio: #59499eff roxo-excuro: #341e67ff branco: #fefefeff
+*/
+
 * {
     box-sizing: border-box;
     font-family: 'Josefin Sans', sans-serif;
